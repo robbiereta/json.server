@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "0.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
